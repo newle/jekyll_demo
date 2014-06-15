@@ -1,0 +1,10 @@
+--
+layout: default
+title: hello world
+---
+
+## {{page.title}} 
+
+> 
+	1. 尝试不同的人生和活法
+	2. 在尝试一边
